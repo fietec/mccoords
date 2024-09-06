@@ -29,6 +29,8 @@ Therefore type
 before disabling the datapack via:
 ```
 /datapack disable "file/coords"
+```
 or
+```
 /datapack disable "file/coords.zip"
 ```
