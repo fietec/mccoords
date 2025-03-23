@@ -33,3 +33,4 @@ or
 ```
 /datapack disable "file/coords.zip"
 ```
+![image](./screenshot.png)
