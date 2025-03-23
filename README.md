@@ -18,6 +18,7 @@ To share your coordinates, simply type:
 ```
 /trigger coords
 ```
+![image](./screenshot.png)
 
 ### Disabling the datapack
 Simply disabling the datapack won't clean up the scoreboards used by it. 
@@ -33,4 +34,3 @@ or
 ```
 /datapack disable "file/coords.zip"
 ```
-![image](./screenshot.png)
