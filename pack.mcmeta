@@ -1,6 +1,6 @@
 {
     "pack": {
-      "pack_format": 48,
-      "description": "coords by cdm. Easily share your current location with your friends."
+      "pack_format": 61,
+      "description": "coords by cdm"
     }
 }

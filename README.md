@@ -1,6 +1,6 @@
 # coords
 
-`coords` is a simple Minecraft datapack for sharing your current coordinates with everyone on a server without having to look them up and type them out. 
+`coords` is a simple Minecraft 1.21.4+ datapack for sharing your current coordinates with everyone on a server without having to look them up and type them out. 
 ### Enabling the datapack
 
 Make sure to enable the datapack via:
