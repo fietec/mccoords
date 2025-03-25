@@ -1,2 +1,2 @@
 scoreboard players enable @a coords
-execute as @p[scores={coords=1..}] run function coords:send
+execute as @a[scores={coords=1..}] run function coords:send
